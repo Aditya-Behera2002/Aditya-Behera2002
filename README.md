@@ -2,7 +2,7 @@
 - 👀 I’m interested in java programming 
 - 🌱 I’m currently learning java
 - 💞️ I’m looking to collaborate on projects 
-- 📫 How to reach me well you can mail me
+- 📫 How to reach me well you can mail me at adityabehera2002@gmail.com
 
 <!---
 Aditya-Behera2002/Aditya-Behera2002 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
